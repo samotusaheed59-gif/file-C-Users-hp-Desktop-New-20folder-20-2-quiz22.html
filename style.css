@@ -4,7 +4,7 @@ body{
     align-items: center;
     min-height: 100vh;
    /* background: url(pasta.jpg) no-repeat;*/
-    background-color:tomato;
+    background-color:red;
     background-size: cover;
     background-position: center;
     
@@ -324,3 +324,4 @@ border-bottom-left-radius: 20px;
 z-index:1;
 
 }
+
